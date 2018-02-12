@@ -50,7 +50,7 @@ $regioni = array( "TOSCANA" => $prov_toscana,
                   "TRENTINO-ALTO A" => $prov_trentino,
                   "BASILICATA" => $prov_basilicata);
 
-$tipologie=array("CENTRO TERRITORIALE PERMANENTE",
+$tipologie=array("Alunni Abbinati",
                  "TIPOLOGIA PERCORSO",
                  "CORSO SERALE",
                  "Dimensione azienda",
