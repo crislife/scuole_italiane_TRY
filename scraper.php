@@ -51,9 +51,9 @@ $regioni = array( "TOSCANA" => $prov_toscana,
                   "BASILICATA" => $prov_basilicata);
 
 $tipologie=array("CENTRO TERRITORIALE PERMANENTE",
-                 "CIRCOLO DIDATTICO",
+                 "TIPOLOGIA PERCORSO",
                  "CORSO SERALE",
-                 "ISTITUTO COMPRENSIVO",
+                 "Dimensione azienda",
                  "ISTITUTO DI ISTRUZIONE SUPERIORE",
                  "SCUOLA DELL'INFANZIA",
                  "SCUOLA PRIMARIA",
